@@ -1,14 +1,14 @@
 {
-  "name": "eslint-config-sstur",
+  "name": "eslint-config-eslift",
   "version": "0.3.0",
-  "repository": "github:sstur/eslint-config-sstur",
+  "repository": "github:eslift/eslint-config-eslift",
   "main": "index.js",
   "files": [
     "index.js",
     "react.js",
     "react-native.js"
   ],
-  "author": "sstur@me.com",
+  "author": "eslift@outlook.com",
   "license": "ISC",
   "peerDependencies": {
     "eslint": ">=5.0.0",

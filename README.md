@@ -5,7 +5,7 @@ ESLint configuration used for TypeScript projects.
 ## Install
 
 ```
-$ yarn add --dev eslint-config-sstur
+$ yarn add --dev eslint-config-eslift
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ Modify `eslintConfig` in `package.json` as follows.
 {
   "name": "cool-node-server",
   "eslintConfig": {
-    "extends": "sstur"
+    "extends": "eslift"
   }
 }
 ```
@@ -29,7 +29,7 @@ Modify `eslintConfig` in `package.json` as follows.
 {
   "name": "awesome-react-website",
   "eslintConfig": {
-    "extends": "sstur/react"
+    "extends": "eslift/react"
   }
 }
 ```
@@ -40,7 +40,7 @@ Modify `eslintConfig` in `package.json` as follows.
 {
   "name": "amazing-native-app",
   "eslintConfig": {
-    "extends": "sstur/react-native"
+    "extends": "eslift/react-native"
   }
 }
 ```

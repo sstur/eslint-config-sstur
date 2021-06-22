@@ -1,5 +1,5 @@
 module.exports = {
-  extends: 'sstur',
+  extends: 'eslift',
   parserOptions: {
     ecmaFeatures: {
       jsx: true,

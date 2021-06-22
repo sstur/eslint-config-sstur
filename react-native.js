@@ -1,5 +1,5 @@
 module.exports = {
-  extends: 'sstur/react',
+  extends: 'eslift/react',
   env: {
     'react-native/react-native': true,
   },
